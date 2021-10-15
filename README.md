@@ -1,4 +1,9 @@
-# Project_Blue_barracudas
+# The Shift 
+Motto : "**Question The paradigm**"
+
+Brought to you by:
+
+**The_Blue_barracudas**
 
 
 ***
