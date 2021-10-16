@@ -10,7 +10,7 @@ Brought to you by:
 ## <a id="Contents">Cotents</a>
 [Project Description](#Project-Description)<br>
 [Technologies and Resources](#Technologies-Resources)<br>
-[Installation Guide](#Installation-Guide)<br>
+[Web Application](#Web-Application)<br>
 [Usage](#Usage)<br>
 [Contributors](#Contributors)<br>
 [License](#License)<br>
@@ -20,7 +20,7 @@ Brought to you by:
 ## <a id="Project-Description">Project Description</a>
 <br>
 
-#### Project layout:
+
 
 ***
 ## <a id="Technologies-Resources">Technologies and Resources</a>
@@ -40,9 +40,11 @@ Brought to you by:
   
   
 ***
-## <a id="Installation-Guide">Installation Guide</a>
-### Project Installation
+## <a id="Web-Application">Web-Application</a>
 
+Wbesite:  https://guarded-tundra-46540.herokuapp.com/
+
+The fully functional version is hosted on a vm through google colab, and currently runs on ngrok. However, while we overcome hardware-related local issues, we still wanted to display our site framework.
 
 ## <a id="Usage">Usage</a>
 
@@ -62,7 +64,7 @@ Each file included in this repository is licensed under the <a href="https://git
 [Contents](#Contents)<br>
 [Project Description](#Project-Description)<br>
 [Technologies and Resources](#Technologies-Resources)<br>
-[Installation Guide](#Installation-Guide)<br>
+[Web Application](#Web-Application)<br>
 [Usage](#Usage)<br>
 [Contributors](#Contributors)<br>
 [License](#License)<br>
