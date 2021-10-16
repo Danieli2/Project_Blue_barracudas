@@ -12,6 +12,7 @@ Brought to you by:
 [Technologies and Resources](#Technologies-Resources)<br>
 [Web Application](#Web-Application)<br>
 [Usage](#Usage)<br>
+[Installation](#Installation)<br>
 [Contributors](#Contributors)<br>
 [License](#License)<br>
 [Bottom of Page](#Bottom-of-Page)<br>
@@ -77,7 +78,11 @@ The fully functional version is hosted on a vm through google colab, and current
   4. Click the predict Button
   
   5. Find out weather or not your loan is approved<br>  
-      
+   
+  
+  ## <a id="Installation">Usage</a>
+  <br>
+  
   
 ## <a id="Contributors">Contributors</a>
  - <a href="https://github.com/Danieli2" title="https://github.com/Danieli2" target="_blank">Daniel de Leon</a>
@@ -95,6 +100,7 @@ Each file included in this repository is licensed under the <a href="https://git
 [Technologies and Resources](#Technologies-Resources)<br>
 [Web Application](#Web-Application)<br>
 [Usage](#Usage)<br>
+[Installation](#Installation)<br>
 [Contributors](#Contributors)<br>
 [License](#License)<br>
 <a id="Bottom-of-Page"></a>
