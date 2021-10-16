@@ -80,7 +80,7 @@ The fully functional version is hosted on a vm through google colab, and current
   5. Find out weather or not your loan is approved<br>  
    
   
-  ## <a id="Installation">Usage</a>
+  ## <a id="Installation">Installation</a>
   <br>
   
   
