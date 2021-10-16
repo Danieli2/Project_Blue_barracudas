@@ -52,7 +52,32 @@ The fully functional version is hosted on a vm through google colab, and current
 
 ## <a id="Usage">Usage</a>
 
+  Welcome to Shift where we question the pardigm, to access this web application you have to click the link that is titeled web application. Once in the web application complete the following steps:
   
+  1. Find Dropdown menu
+  2. Click the model entry
+  3. Follow the promts and provide the following information:
+  
+      -Ammount of your total Income
+  
+      -Credit amount of the loan
+  
+      -Loan annuity
+  
+      -The price of the goods for which the loan is given
+  
+      -Days Employed
+  
+      -Month of balance relative to application date (-1 means the freshest balance date)
+  
+      -How much did the you pay during the month on the previous credit
+  
+      -Number of paid installments on the previous credit
+  
+  4. Click the predict Button
+  
+  5. Find out weather or not your loan is approved<br>  
+      
   
 ## <a id="Contributors">Contributors</a>
  - <a href="https://github.com/Danieli2" title="https://github.com/Danieli2" target="_blank">Daniel de Leon</a>
