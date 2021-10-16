@@ -46,7 +46,7 @@ Factoring in personal information alongside relevant macroeconomic data will all
 ***
 ## <a id="Web-Application">Web-Application</a>
 
-Wbesite:  https://guarded-tundra-46540.herokuapp.com/
+Website:  https://guarded-tundra-46540.herokuapp.com/
 
 The fully functional version is hosted on a vm through google colab, and currently runs on ngrok. However, while we overcome hardware-related local issues, we still wanted to display our site framework.
 
