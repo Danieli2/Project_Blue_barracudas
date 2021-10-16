@@ -38,11 +38,11 @@ Factoring in personal information alongside relevant macroeconomic data will all
 
 
 
-
 #### Resources:
   
-  
-  
+ Website for dat Collection: https://www.kaggle.com/c/home-credit-default-risk/data
+ 
+ API Federal Reserve: https://fred.stlouisfed.org/docs/api/fred/
 ***
 ## <a id="Web-Application">Web-Application</a>
 
