@@ -18,7 +18,11 @@ Brought to you by:
 
 ***
 ## <a id="Project-Description">Project Description</a>
-<br>
+
+
+We provide a client-facing product that allows end-users to understand how their loan application, or general credit profile would be viewed by prospective institutional lenders.
+In future iterations of our product, users will be able to account for the situational nature of lending practices present in real companies. This context-driven approach will factor in the behavior of fixed income securities markets along with client-provided information in order to provide a better user experience.
+Factoring in personal information alongside relevant macroeconomic data will allow a client to walk away with a clear understanding of their financial position in the current market climate.<br>
 
 
 
