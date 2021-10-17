@@ -30,12 +30,19 @@ Factoring in personal information alongside relevant macroeconomic data will all
 ***
 ## <a id="Technologies-Resources">Technologies and Resources</a>
 #### Technologies:
-<a href="https://docs.python.org/release/3.8.0/" title="https://docs.python.org/release/3.8.0/"><img src="https://img.shields.io/badge/python-3.8%2B-red">
-<a href="https://pandas.pydata.org/docs/" title="https://pandas.pydata.org/docs/"><img src="https://img.shields.io/badge/pandas-1.3.1-green"></a>
-<a href="https://numpy.org/doc/stable/" title="https://numpy.org/doc/stable/"><img src="https://img.shields.io/badge/numpy-1.20.3-green"></a>
-<a href="https://jupyter-notebook.readthedocs.io/en/stable/" title="https://jupyter-notebook.readthedocs.io/en/stable/"><img src="https://img.shields.io/badge/jupyter--notebook-5.7.11-blue"></a>
-<a href="https://docs.python-requests.org/en/master/" title="https://docs.python-requests.org/en/master/"><img src="https://img.shields.io/badge/requests-2.25.1-yellowgreen"></a>
-<a href="https://docs.bokeh.org/en/latest/index.html" title="https://docs.bokeh.org/en/latest/index.html"><img src="https://img.shields.io/badge/bokeh-2.3.3-green"></a>
+Python: "https://docs.python.org/release/3.8.0/"
+
+Pandas: "https://pandas.pydata.org/docs/" 
+
+Numpy: "https://numpy.org/doc/stable/" 
+
+Jupter-Notebook: "https://jupyter-notebook.readthedocs.io/en/stable/"
+
+Tensorflow: "https://www.tensorflow.org/guide"
+
+Scikit-learn: https://scikit-learn.org/stable/
+
+Imbalanced-learn: https://imbalanced-learn.org/stable/
 
 
 
