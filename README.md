@@ -44,7 +44,7 @@ Scikit-learn: https://scikit-learn.org/stable/
 
 Imbalanced-learn: https://imbalanced-learn.org/stable/
 
-Dependencies for flask app:
+**Dependencies for flask app**:
 
 click 8.0.1: https://click.palletsprojects.com/en/8.0.x/
 
@@ -64,7 +64,7 @@ six 1.16.0: https://pypi.org/project/six/
 
 Werkzeug 2.0.1: https://werkzeug.palletsprojects.com/en/2.0.x/
 
-Additional Dependencies for google Colab to run web app:
+**Additional Dependencies for google Colab to run web app**:
 
 Pickle version 4: https://docs.python.org/3/library/pickle.html
 
