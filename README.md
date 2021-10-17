@@ -122,7 +122,7 @@ Due to local machine incompatibility with tensor flow, our permanent web address
 ## <a id="Contributors">Contributors</a>
  - <a href="https://github.com/Danieli2" title="https://github.com/Danieli2" target="_blank">Daniel de Leon</a>
  - <a href="https://github.com/Sam-Weiner" title="https://github.com/Sam-Weiner" target="_blank">Sam Weiner</a>
- - <a href="https://github.com/jsherrer391" title="https://github.com/jsherrer391" target="_blank">James Sheerer</a>
+ - <a href="https://github.com/jsherrer391" title="https://github.com/jsherrer391" target="_blank">James Sherrer</a>
  - <a href="https://github.com/rhurst11" title="https://github.com/rhurst11" target="_blank">Ray Hurst</a>
 
 ## <a id="License">License</a>
