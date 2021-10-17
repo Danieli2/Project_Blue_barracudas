@@ -44,7 +44,31 @@ Scikit-learn: https://scikit-learn.org/stable/
 
 Imbalanced-learn: https://imbalanced-learn.org/stable/
 
+Dependencies for flask app:
 
+click 8.0.1: https://click.palletsprojects.com/en/8.0.x/
+
+Flask 2.0.1: https://flask.palletsprojects.com/en/2.0.x/
+
+gunicorn 20.1.0: https://docs.gunicorn.org/en/stable/news.html
+
+itsdangerous 2.0.1: https://itsdangerous.palletsprojects.com/en/2.0.x/
+
+Jinja2 3.0.1: https://jinja.palletsprojects.com/en/3.0.x/
+
+MarkupSafe 2.0.1: https://pypi.org/project/MarkupSafe/
+
+pytz 2021.3: https://libraries.io/pypi/pytz
+
+six 1.16.0: https://pypi.org/project/six/
+
+Werkzeug 2.0.1: https://werkzeug.palletsprojects.com/en/2.0.x/
+
+Additional Dependencies for google Colab to run web app:
+
+Pickle version 4: https://docs.python.org/3/library/pickle.html
+
+flask_run_with_ngrok: https://pyngrok.readthedocs.io/en/latest/integrations.html
 
 #### Resources:
   
@@ -88,7 +112,9 @@ The fully functional version is hosted on a vm through google colab, and current
    
   
   ## <a id="Installation">Installation</a>
-  <br>
+ 
+ In order to run the application with full web functionality, please open our Flask Deployment Google Colab notebook. All required files are in the same folder, please upload those as well.
+Due to local machine incompatibility with tensor flow, our permanent web address does not provide model integration at this time, but all style content and web page formatting is present. <br>
   
   
 ## <a id="Contributors">Contributors</a>
