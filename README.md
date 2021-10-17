@@ -71,6 +71,8 @@ Pickle version 4: https://docs.python.org/3/library/pickle.html
 flask_run_with_ngrok: https://pyngrok.readthedocs.io/en/latest/integrations.html
 
 #### Resources:
+
+ GoogleColab: https://colab.research.google.com/?utm_source=scs-index
   
  Website for data Collection: https://www.kaggle.com/c/home-credit-default-risk/data
  
